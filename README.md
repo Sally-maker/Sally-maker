@@ -36,5 +36,7 @@
   <img align="center" alt="Rafa-yoda" height="200px" width="200" src="https://javiu.files.wordpress.com/2015/10/scream.gif?w=150&h=150">
    <img align="center" alt="Rafa-yoda" height="200px" width="200" src="https://javiu.files.wordpress.com/2015/10/carrie.gif">
     
+    
+    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
   </div>
