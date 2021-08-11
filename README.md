@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sally-maker?tab=repositories](https://github.com/Sally-maker?tab=repositories)
 
-- 💬 Ask me about **React, TS, Nestjs, Docker, Kafka, Sass , Webpack**
+- 💬 Ask me about **React, TS, Nestjs, Docker, Sass**
 
 - 📫 How to reach me **gabrielgbbarbosa624@gmail.com**
 
