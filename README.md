@@ -17,7 +17,6 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
   
   ### 
@@ -30,4 +29,12 @@
   <a href = "mailto:gabrielgbbarbosa624@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/Gabriel10938164" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+  </div>
+  <div>
+  <img align="center" alt="Rafa-yoda" height="200px" width="200" justify-content="flex-start" src="https://javiu.files.wordpress.com/2015/10/michael-myers.gif">
+  <img align="center" alt="Rafa-yoda" height="200px" width="200" src="https://javiu.files.wordpress.com/2015/10/jason-voorhees.gif">
+  <img align="center" alt="Rafa-yoda" height="200px" width="200" src="https://javiu.files.wordpress.com/2015/10/scream.gif?w=150&h=150">
+   <img align="center" alt="Rafa-yoda" height="200px" width="200" src="https://javiu.files.wordpress.com/2015/10/carrie.gif">
+    
+  
   </div>
