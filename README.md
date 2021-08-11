@@ -35,5 +35,11 @@
   <img align="center" alt="Rafa-yoda" height="200px" width="200" src="https://javiu.files.wordpress.com/2015/10/jason-voorhees.gif">
   <img align="center" alt="Rafa-yoda" height="200px" width="200" src="https://javiu.files.wordpress.com/2015/10/scream.gif?w=150&h=150">
    <img align="center" alt="Rafa-yoda" height="200px" width="200" src="https://javiu.files.wordpress.com/2015/10/carrie.gif">
+    
   </div>
+  
+  
+  
+  
+  
   ![Snake animation](https://github.com/Sally-maker/Sally-maker/blob/output/github-contribution-grid-snake.svg)
