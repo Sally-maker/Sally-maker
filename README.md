@@ -37,6 +37,6 @@
    <img align="center" alt="Rafa-yoda" height="200px" width="200" src="https://javiu.files.wordpress.com/2015/10/carrie.gif">
     
     
-    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/Sally-maker/Sally-maker/blob/output/github-contribution-grid-snake.svg)
   
   </div>
