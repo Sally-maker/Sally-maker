@@ -32,7 +32,7 @@ API e interface simples simulando fluxo de votação.
 ## 📫 Contato
 
 - **Email:** gabrielgbbarbosa624@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/gabriel-barbosa-santos-a269681b9  
+- **LinkedIn:** https://www.linkedin.com/in/entra-agora-e-descubra/ 
 - **GitHub:** https://github.com/Sally-maker  
 
 ---
